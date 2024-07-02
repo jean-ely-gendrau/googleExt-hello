@@ -1,12 +1,8 @@
-# google-dev-first-ext
-Google extension Chrominum - first project - hello wordl
-
-
-markdown
-Copier le code
 # 🌟 Bienvenue dans Votre Première Extension Google Chrome
 
 Ce projet vous guidera à travers le processus de création, mise en service et test de votre première extension Google Chrome. Ce tutoriel est conçu pour les débutants et vous introduira aux concepts clés du développement d'extensions Chrome.
+
+[à tout moment consultez le wiki !](https://github.com/jean-ely-gendrau/googleExt-hello/wiki)
 
 ## 📚 Description
 
@@ -61,6 +57,7 @@ gh issue create --title "Mise en Service et Test de l'Extension" --body "https:/
 ```terminal
 gh issue create --title "Mise en Service et Test de l'Extension" --body "https://github.com/USERNAME/my-extension/issues/2"
 ```
+[à tout moment consultez le wiki !](https://github.com/jean-ely-gendrau/googleExt-hello/wiki)
 
 ### 🔗 Liens vers les Issues
 - [Initialisation de la Structure de l'Extension](https://github.com/jean-ely-gendrau/googleExt-hello/issues/2)
@@ -83,6 +80,8 @@ _Une milestone vous permet de regrouper plusieurs issues liées à une même pha
 - Vous pouvez également utiliser le symbole # dans les commentaires ou descriptions pour lier directement d'autres issues ou pull requests.
 
 **_En suivant ces étapes, vous pourrez mieux gérer et suivre l'avancement de votre projet_**.
+
+[à tout moment consultez le wiki !](https://github.com/jean-ely-gendrau/googleExt-hello/wiki)
 
 ### 🏆 Milestone
 Pour une vue d'ensemble des étapes du projet, consultez la Milestone : Création et Déploiement de la Première Extension Google Chrome.
