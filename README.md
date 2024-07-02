@@ -32,8 +32,16 @@ my-extension/
 
 ### 1. Créer le Repository GitHub
 
-Utilisez l'outil CLI de GitHub `gh` pour créer votre repository :
+>[!WARNING]
+>Remplacer les valeur sivante:
+>USERNAME par le votre `USERNAME` GitHub
+>my-extension par le nom de votre repositorie
 
+Utilisez l'outil [CLI de GitHub](https://cli.github.com/) `gh` pour créer votre repository :
+
+>[!TIP]
+>Pour utiliser l'outil CLI de GitHub il faut être authentifié
+>[S'authentifié avec la CLI gh auth login](https://cli.github.com/manual/gh_auth_login)
 ```sh
 gh repo create my-extension --public --description "Votre première extension Google Chrome"
 ```
@@ -50,7 +58,7 @@ Créez les issues nécessaires pour suivre les étapes de développement :
 
 - Initialisation de la Structure de l'Extension :
 ```terminal
-gh issue create --title "Mise en Service et Test de l'Extension" --body "https://github.com/USERNAME/my-extension/issues/2"
+gh issue create --title "initialiser/Réaliser La première extension" --body "https://github.com/USERNAME/my-extension/issues/2"
 ```
 
 - Mise en Service et Test de l'Extension :
