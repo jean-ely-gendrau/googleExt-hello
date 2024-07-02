@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Ma Première Extension Chrome",
+  "version": "1.0",
+  "description": "Une simple extension pour démarrer avec le développement Chrome.",
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": {
+      "16": "images/icons8-icon16.png",
+      "32": "images/icons8-icon32.png",
+      "96": "images/icons8-icon96.png"
+    }
+  }
+}
