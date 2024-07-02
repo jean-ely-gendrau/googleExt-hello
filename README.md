@@ -40,8 +40,9 @@ my-extension/
 Utilisez l'outil [CLI de GitHub](https://cli.github.com/) `gh` pour créer votre repository :
 
 >[!TIP]
->Pour utiliser l'outil CLI de GitHub il faut être authentifié
->[S'authentifié avec la CLI gh auth login](https://cli.github.com/manual/gh_auth_login)
+>Pour utiliser l'outil CLI de GitHub il faut être authentifié.
+>[S'authentifié avec la CLI gh auth login](https://cli.github.com/manual/gh_auth_login).
+
 ```sh
 gh repo create my-extension --public --description "Votre première extension Google Chrome"
 ```
