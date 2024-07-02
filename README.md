@@ -1,3 +1,5 @@
+![Uploading illustration-google-extension-illustration-HMj2gaxRSWOkr8tp2cYdzg-sRfeWWIFQeqfnKaZEhhDkA.jpeg…]()
+
 # 🌟 Bienvenue dans Votre Première Extension Google Chrome
 
 Ce projet vous guidera à travers le processus de création, mise en service et test de votre première extension Google Chrome. Ce tutoriel est conçu pour les débutants et vous introduira aux concepts clés du développement d'extensions Chrome.
