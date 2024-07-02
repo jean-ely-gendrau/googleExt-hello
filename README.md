@@ -1,11 +1,10 @@
-![illustration-google-extension-illustration-HMj2gaxRSWOkr8tp2cYdzg-sRfeWWIFQeqfnKaZEhhDkA](https://github.com/jean-ely-gendrau/googleExt-hello/assets/150784008/3e83283f-dc9e-4f1e-8d39-324c33535959)
-
-
 # 🌟 Bienvenue dans Votre Première Extension Google Chrome
 
 Ce projet vous guidera à travers le processus de création, mise en service et test de votre première extension Google Chrome. Ce tutoriel est conçu pour les débutants et vous introduira aux concepts clés du développement d'extensions Chrome.
 
 [à tout moment consultez le wiki !](https://github.com/jean-ely-gendrau/googleExt-hello/wiki)
+
+![illustration-google-extension-illustration-HMj2gaxRSWOkr8tp2cYdzg-sRfeWWIFQeqfnKaZEhhDkA](https://github.com/jean-ely-gendrau/googleExt-hello/assets/150784008/3e83283f-dc9e-4f1e-8d39-324c33535959)
 
 ## 📚 Description
 
